@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gautekramvik.github.io/gautek/humle/</loc>
+    <lastmod>2019-08-28T16:18:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/gautek/</loc>
+    <lastmod>2019-08-28T16:18:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/gautek/utstyr/</loc>
+    <lastmod>2019-08-28T16:15:36+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/gautek/post/</loc>
+    <lastmod>2019-08-28T16:05:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/gautek/post/third/</loc>
+    <lastmod>2019-08-28T16:05:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/gautek/post/second/</loc>
+    <lastmod>2019-08-28T16:05:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/gautek/post/first/</loc>
+    <lastmod>2019-08-28T16:04:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/gautek/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/gautek/tags/</loc>
+  </url>
+  
+</urlset>

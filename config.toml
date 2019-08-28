@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://gautekramvik.github.io/gautek/"
 languageCode = "en-us"
 title = "Kramvikbrygg"
 theme = "newsroom"
+publishDir = "docs"

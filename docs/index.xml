@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kramvikbrygg</title>
+    <link>https://gautekramvik.github.io/gautek/</link>
+    <description>Recent content on Kramvikbrygg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2019 16:18:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://gautekramvik.github.io/gautek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Humlebeholdning</title>
+      <link>https://gautekramvik.github.io/gautek/humle/</link>
+      <pubDate>Wed, 28 Aug 2019 16:18:01 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/gautek/humle/</guid>
+      <description>   Type Gram     Citra 50   Galaxy 100   Cascade 200   Chinook 100    </description>
+    </item>
+    
+    <item>
+      <title>Utstyr</title>
+      <link>https://gautekramvik.github.io/gautek/utstyr/</link>
+      <pubDate>Wed, 28 Aug 2019 16:15:36 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/gautek/utstyr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>https://gautekramvik.github.io/gautek/post/third/</link>
+      <pubDate>Wed, 28 Aug 2019 16:05:40 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/gautek/post/third/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://gautekramvik.github.io/gautek/post/second/</link>
+      <pubDate>Wed, 28 Aug 2019 16:05:00 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/gautek/post/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://gautekramvik.github.io/gautek/post/first/</link>
+      <pubDate>Wed, 28 Aug 2019 16:04:53 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/gautek/post/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
